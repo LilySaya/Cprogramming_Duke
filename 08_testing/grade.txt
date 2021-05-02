@@ -1,4 +1,4 @@
-Grading at Sun May  2 14:08:01 UTC 2021
+Grading at Sun May  2 14:28:47 UTC 2021
 #################################################
 test input.1:
 Line_1_did_not_match
@@ -6,45 +6,18 @@ Your file did not match the expected ouput
 input.1 failed, your output did not match with the answer
 #################################################
 test input.2:
-I expected to find a file called 'input.2' but it did not exist
-(or was not a regular file)
-Here are the files that I can find:
-correct.txt
-input.1
-isPrime-broken1
-isPrime-broken2
-isPrime-broken3
-isPrime-broken4
-isPrime-correct
-README
-student.txt
+Line_1_did_not_match
+Your file did not match the expected ouput
+input.2 failed, your output did not match with the answer
 #################################################
 test input.3:
-I expected to find a file called 'input.3' but it did not exist
-(or was not a regular file)
-Here are the files that I can find:
-correct.txt
-input.1
-isPrime-broken1
-isPrime-broken2
-isPrime-broken3
-isPrime-broken4
-isPrime-correct
-README
-student.txt
+Line_1_did_not_match
+Your file did not match the expected ouput
+input.3 failed, your output did not match with the answer
 #################################################
 test input.4:
-I expected to find a file called 'input.4' but it did not exist
-(or was not a regular file)
-Here are the files that I can find:
-correct.txt
-input.1
-isPrime-broken1
-isPrime-broken2
-isPrime-broken3
-isPrime-broken4
-isPrime-correct
-README
-student.txt
+Line_1_did_not_match
+Your file did not match the expected ouput
+input.4 failed, your output did not match with the answer
 
 Overall Grade: F
