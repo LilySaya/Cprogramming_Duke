@@ -1,5 +1,5 @@
 #include<stdio.h>
-
+#include<stdlib.h>
 struct _retire_info
 {
   int months;
@@ -36,6 +36,7 @@ void retirement (int startAge, double initial, retire_info working, retire_info 
       printf("Age %3d month %2d you have $%.2f\n", age, month, current_balance);
 
     }
+  
 
 }
 int main()
@@ -51,4 +52,5 @@ int main()
   retired.rate_of_return = 0.01/12;
 
   retirement(327,21345,working,retired);
+  return EXIT_SUCCESS;
 }
