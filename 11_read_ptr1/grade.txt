@@ -1,4 +1,4 @@
-Grading at Mon 03 May 2021 04:07:55 AM UTC
+Grading at Mon 03 May 2021 04:14:40 AM UTC
 Attempting to compile test.c
 gcc -o test -std=gnu99 -pedantic -Wall -Werror test.c
 compiled
